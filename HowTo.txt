@@ -1,0 +1,17 @@
+
+git clone https://github.com/mishaellapin/learncpp.git
+
+git status
+
+git add .
+
+git commit -m "gitignore filr for cpp projects"
+
+git config --global user.email "mishael.lapin@gmail.com"
+git config --global user.name "Mishael Lapin"
+
+git branch --unset-upstream
+
+git log
+
+git push
